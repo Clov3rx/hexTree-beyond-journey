@@ -1,3 +1,3 @@
 # hexTree-beyond-journey
-Walkthrough of HexTree AttackSurface Android Security Challenges
-Providing only the proof-of-concept (PoC) code required to solve each challenge.
+Walkthrough of HexTree AttackSurface Challenges
+Providing demonstration and the proof-of-concept (PoC) code required to solve each challenge.
