@@ -2,11 +2,11 @@
 
 ## Solution
 
-This challenge abuses Activity result handling to bypass a weak caller validation check and receive data (flag) returned by the target activity.
+This challenge abuses Activity result handling to bypass a weak caller validation check and receive data `(flag)` returned by the target activity.
 
 ### Key Concepts
 
-1. `getCallingActivity()` returns the component that started the activity via startActivityForResult().
+1. `getCallingActivity()` returns the component that started the activity via `startActivityForResult()`.
 
 2. Validating the caller using string matching contains("Hextree").
 
